@@ -4,7 +4,7 @@
   "rs_domain": "https://refactor.dlesjeckz.net/",
   "lp_domain": "https://manclub.parts/",
   "web_domain": "https://web.manclub.parts/",
-  "agency_ws_main_url": "wss://websocket.atpman.com/websocket2",
+  "agency_ws_main_url": "wss://ws-card.atpman.net/websocket",
   "sport_domain": "https://sport.mangee.io/",
   "ws_sport_domain": "wss://wssport.atpman.net/websocket",
   "top_sport_domain": "https://api100.mangee.io/gameapi/public/sb/ranking",
